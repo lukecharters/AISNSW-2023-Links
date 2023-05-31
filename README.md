@@ -18,7 +18,7 @@ https://techitout.xyz/2023/05/22/app-auto-patch/
 ## Nudge
 https://github.com/macadmins/nudge
 
-## Zack Thompson's Get-LatestOSSupported.sh
+## Get-LatestOSSupported.sh
 https://github.com/MLBZ521/MacAdmin/blob/master/Jamf%20Pro/Extension%20Attributes/Get-LatestOSSupported.sh
 
 ## macOS Support App
